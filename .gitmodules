@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "colourvalues"]
+	path = colourvalues
+	url = https://github.com/symbolixau/colourvalues
+	shallow = true
+	registered = true
+[submodule "geojsonsf"]
+	path = geojsonsf
+	url = https://github.com/symbolixau/geojsonsf
+	shallow = true
+	registered = true
+[submodule "googleway"]
+	path = googleway
+	url = https://github.com/symbolixau/googleway
+	shallow = true
+	registered = true
+[submodule "mapdeck"]
+	path = mapdeck
+	url = https://github.com/symbolixau/mapdeck
+	shallow = true
+	registered = true
+[submodule "spatialwidget"]
+	path = spatialwidget
+	url = https://github.com/symbolixau/spatialwidget
+	shallow = true
+	registered = true
