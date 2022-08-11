@@ -28,3 +28,13 @@
 	url = https://github.com/symbolixau/spatialwidget
 	shallow = true
 	registered = true
+[submodule "geometries"]
+	path = geometries
+	url = https://github.com/dcooley/geometries
+	shallow = true
+	registered = false
+[submodule "sfheaders"]
+	path = sfheaders
+	url = https://github.com/dcooley/sfheaders
+	shallow = true
+	registered = false
