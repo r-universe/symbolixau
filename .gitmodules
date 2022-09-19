@@ -18,11 +18,6 @@
 	url = https://github.com/symbolixau/googleway
 	shallow = true
 	registered = true
-[submodule "mapdeck"]
-	path = mapdeck
-	url = https://github.com/symbolixau/mapdeck
-	shallow = true
-	registered = true
 [submodule "spatialwidget"]
 	path = spatialwidget
 	url = https://github.com/symbolixau/spatialwidget
