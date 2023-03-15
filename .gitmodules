@@ -8,6 +8,11 @@
 	url = https://github.com/symbolixau/colourvalues
 	shallow = true
 	registered = true
+[submodule "mapdeck"]
+	path = mapdeck
+	url = https://github.com/symbolixau/mapdeck
+	shallow = true
+	registered = true
 [submodule "geojsonsf"]
 	path = geojsonsf
 	url = https://github.com/symbolixau/geojsonsf
@@ -16,11 +21,6 @@
 [submodule "googleway"]
 	path = googleway
 	url = https://github.com/symbolixau/googleway
-	shallow = true
-	registered = true
-[submodule "mapdeck"]
-	path = mapdeck
-	url = https://github.com/symbolixau/mapdeck
 	shallow = true
 	registered = true
 [submodule "spatialwidget"]

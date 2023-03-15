@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
+    "package": "mapdeck",
+    "oncran": true
+  },
+  {
     "package": "geojsonsf",
     "oncran": true
   },
   {
     "package": "googleway",
-    "oncran": true
-  },
-  {
-    "package": "mapdeck",
     "oncran": true
   },
   {
