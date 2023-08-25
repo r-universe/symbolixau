@@ -15,6 +15,9 @@
 [submodule "googleway"]
 	path = googleway
 	url = https://github.com/symbolixau/googleway
+[submodule "h3lib"]
+	path = h3lib
+	url = https://github.com/symbolixau/h3lib
 [submodule "mapdeck"]
 	path = mapdeck
 	url = https://github.com/symbolixau/mapdeck
