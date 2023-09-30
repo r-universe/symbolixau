@@ -18,6 +18,9 @@
 [submodule "h3lib"]
 	path = h3lib
 	url = https://github.com/symbolixau/h3lib
+[submodule "h3r"]
+	path = h3r
+	url = https://github.com/symbolixau/h3r
 [submodule "mapdeck"]
 	path = mapdeck
 	url = https://github.com/symbolixau/mapdeck
