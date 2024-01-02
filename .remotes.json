@@ -12,6 +12,12 @@
     "from": "mapdeck"
   },
   {
+    "package": "interleave",
+    "url": "https://github.com/dcooley/interleave",
+    "via": ["mapdeck"],
+    "from": "mapdeck"
+  },
+  {
     "package": "sfheaders",
     "url": "https://github.com/dcooley/sfheaders",
     "via": ["mapdeck"],
