@@ -8,27 +8,15 @@
 [submodule "geojsonsf"]
 	path = geojsonsf
 	url = https://github.com/symbolixau/geojsonsf
-[submodule "geometries"]
-	path = geometries
-	url = https://github.com/dcooley/geometries
-	registered = false
 [submodule "googleway"]
 	path = googleway
 	url = https://github.com/symbolixau/googleway
 [submodule "h3lib"]
 	path = h3lib
 	url = https://github.com/symbolixau/h3lib
-[submodule "interleave"]
-	path = interleave
-	url = https://github.com/dcooley/interleave
-	registered = false
 [submodule "mapdeck"]
 	path = mapdeck
 	url = https://github.com/symbolixau/mapdeck
-[submodule "sfheaders"]
-	path = sfheaders
-	url = https://github.com/dcooley/sfheaders
-	registered = false
 [submodule "spatialwidget"]
 	path = spatialwidget
 	url = https://github.com/symbolixau/spatialwidget
