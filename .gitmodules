@@ -8,6 +8,9 @@
 [submodule "geojsonsf"]
 	path = geojsonsf
 	url = https://github.com/symbolixau/geojsonsf
+[submodule "googlePolylines"]
+	path = googlePolylines
+	url = https://github.com/symbolixau/googlepolylines
 [submodule "googleway"]
 	path = googleway
 	url = https://github.com/symbolixau/googleway
