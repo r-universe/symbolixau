@@ -20,9 +20,21 @@
 [submodule "h3r"]
 	path = h3r
 	url = https://github.com/symbolixau/h3r
+[submodule "jsonify"]
+	path = jsonify
+	url = https://github.com/SymbolixAU/jsonify
+	registered = false
 [submodule "mapdeck"]
 	path = mapdeck
 	url = https://github.com/symbolixau/mapdeck
+[submodule "rapidjsonr"]
+	path = rapidjsonr
+	url = https://github.com/SymbolixAU/rapidjsonr
+	registered = false
+[submodule "sfheaders"]
+	path = sfheaders
+	url = https://github.com/dcooley/sfheaders
+	registered = false
 [submodule "spatialwidget"]
 	path = spatialwidget
 	url = https://github.com/symbolixau/spatialwidget
